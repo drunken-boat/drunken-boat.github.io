@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### NLP | Data Science 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://rpubs.com/drunken-boat/major4-final-2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
