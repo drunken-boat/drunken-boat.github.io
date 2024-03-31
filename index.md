@@ -12,14 +12,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://rpubs.com/drunken-boat/major4-final-2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Social Media and Sentiment Analysis with Reddit Threads on Metal Music](https://rpubs.com/drunken-boat/major4-final-2)
+<img src="images/project_metal.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### GIS | Spatial Data Analysis
 
-- [Project 1 Title](http://example.com/)
+- [Fatal Encounter](https://github.com/drunken-boat/fatal-encounter-viz)
+
+<img src="images/project_fatal1.png?raw=true"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
