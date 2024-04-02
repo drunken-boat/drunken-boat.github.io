@@ -3,11 +3,11 @@ logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   👋 Hi there! My name is Tara. I'm a double major graduate student at Georgia Tech and a data governance analyst at MARTA.
-
+  <br><br>
   👩🏻‍💻 I’m a team player with a strong interest in data. I developed my passion for technology when I discovered how big data can transform transit systems. Since then, I've pursued this interest with the help of programs like Rewriting the Code.
   
   👤 Along with my passion for technology, I've developed a strong desire to contribute to social good throughout my life. I enjoy using technology to generate insights that can improve urban mobility, women's rights, inequality, and public health.
-  
+  <br><br>
   ✨ I'm currently focused on machine learning, geo-spatial data science & engineering, and GIS.
   
   🛠 Here's What I'm Working on Right Now:
@@ -15,8 +15,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   📚Volunteering at Chayn, an NGO that helps women experiencing abuse find the information and support they need to regain control of their lives.
   
   📚Actively participating in CTF (cybersecurity competitions).
-
-  <br><br>
  
   <br><br>
   <a href="https://www.linkedin.com/in/tara-tingyu-liu/">View My LinkedIn Profile</a> 
