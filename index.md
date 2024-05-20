@@ -6,6 +6,7 @@
 
 [Gemstone Price Prediction](/pdf/RegressionforJewelPrice.pdf)
 <img src="images/project_gemstone.png"/>
+[RPubs](https://rpubs.com/drunken-boat/gemstone)
 
 ---
 
