@@ -4,6 +4,11 @@
 
 ### NLP | Data Science 
 
+[Gemstone Price Prediction](/pdf/RegressionforJewelPrice.pdf)
+<img src="images/project_gemstone.png"/>
+
+---
+
 [Music Venue Optimization in Atlanta](/pdf/TingyuLiu-project.pdf)
 <img src="images/project_livehouse2.jpg"/>
 
